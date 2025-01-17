@@ -139,5 +139,5 @@ volumes:
 ---
 
 ## 📝 Autor
-Projeto desenvolvido por **[Seu Nome]**. 🚀
+Projeto desenvolvido por **Guilherme dos Santos Sá**. 🚀
 
